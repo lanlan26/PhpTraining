@@ -1,0 +1,17 @@
+.work-icon {
+    border: aliceblue;
+    background-color: rgba(0,0,0,0);
+    color: #3c8dbc;
+}
+
+.table-truncate {
+      position: relative;
+}
+
+.table-truncate__body {
+  position: absolute;
+  max-width: 95%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

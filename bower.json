@@ -1,0 +1,26 @@
+{
+  "name": "Zeni",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://gitlab.com/quyentv/2018-04-Scala-Intern-zeni.git",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "metisMenu": "^2.7.0",
+    "datatables-plugins": "^1.10.15",
+    "font-awesome": "^4.7.0",
+    "datatables-responsive": "^2.1.1",
+    "startbootstrap-sb-admin-2-sass": "^1.0.7",
+    "datatables": "^1.10.15",
+    "plyr": "^2.0.13",
+  }
+}
